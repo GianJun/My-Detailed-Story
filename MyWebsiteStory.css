@@ -73,6 +73,8 @@ p{
     width: 100%;
     background: linear-gradient( aqua, blue);
     height: 100px;
+    position: relative;
+    top: 400px;
 }
 .others ul{
     list-style-type: none;
